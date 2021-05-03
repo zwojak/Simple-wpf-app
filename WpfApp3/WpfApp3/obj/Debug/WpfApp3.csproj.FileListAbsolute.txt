@@ -1,0 +1,17 @@
+C:\Users\kubaz\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csprojAssemblyReference.cache
+C:\Users\kubaz\source\repos\WpfApp3\WpfApp3\obj\Debug\MainWindow.g.cs
+C:\Users\kubaz\source\repos\WpfApp3\WpfApp3\obj\Debug\App.g.cs
+C:\Users\kubaz\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+C:\Users\kubaz\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+C:\Users\kubaz\source\repos\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe.config
+C:\Users\kubaz\source\repos\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe
+C:\Users\kubaz\source\repos\WpfApp3\WpfApp3\bin\Debug\WpfApp3.pdb
+C:\Users\kubaz\source\repos\WpfApp3\WpfApp3\obj\Debug\MainWindow.baml
+C:\Users\kubaz\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.g.resources
+C:\Users\kubaz\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+C:\Users\kubaz\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+C:\Users\kubaz\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+C:\Users\kubaz\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.exe
+C:\Users\kubaz\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.pdb
+C:\Users\kubaz\source\repos\WpfApp3\WpfApp3\obj\Debug\DialogWindow.g.cs
+C:\Users\kubaz\source\repos\WpfApp3\WpfApp3\obj\Debug\DialogWindow.baml
